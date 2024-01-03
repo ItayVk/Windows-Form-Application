@@ -1,0 +1,12 @@
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.AssemblyReference.cache
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.StartScreen.resources
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\etay2\OneDrive - Holon Institute of Technology\סמסטר ב\תכנות מונחה עצמים\פרויקט\Arkanoid\Arkanoid\obj\Debug\Arkanoid.SettingsScreen.resources
